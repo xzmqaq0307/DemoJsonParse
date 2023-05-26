@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DemoJsonParse", "DemoJsonParse\DemoJsonParse.vcxproj", "{8D07FF4F-F94B-42ED-9531-0CB7E32E753C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D07FF4F-F94B-42ED-9531-0CB7E32E753C}.Debug|x64.ActiveCfg = Debug|x64
+		{8D07FF4F-F94B-42ED-9531-0CB7E32E753C}.Debug|x64.Build.0 = Debug|x64
+		{8D07FF4F-F94B-42ED-9531-0CB7E32E753C}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D07FF4F-F94B-42ED-9531-0CB7E32E753C}.Debug|x86.Build.0 = Debug|Win32
+		{8D07FF4F-F94B-42ED-9531-0CB7E32E753C}.Release|x64.ActiveCfg = Release|x64
+		{8D07FF4F-F94B-42ED-9531-0CB7E32E753C}.Release|x64.Build.0 = Release|x64
+		{8D07FF4F-F94B-42ED-9531-0CB7E32E753C}.Release|x86.ActiveCfg = Release|Win32
+		{8D07FF4F-F94B-42ED-9531-0CB7E32E753C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {886D3C04-8C5A-410D-BADF-86D923A0B561}
+	EndGlobalSection
+EndGlobal
